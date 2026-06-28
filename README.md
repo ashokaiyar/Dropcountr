@@ -8,7 +8,7 @@ A virtual device created using this driver will pull in data from Dropcountr at 
 <img width="473" height="278" alt="image" src="https://github.com/user-attachments/assets/d4cbd0c9-c956-462a-b9ef-aeea49bf16fb" />
 
 **To install:**
-1. Create a new Hubitat driver and paste the code into it. Save the driver.
+1. Create a new Hubitat driver and paste the code into it. You can also directly import the [raw URL for this driver](https://raw.githubusercontent.com/ashokaiyar/Dropcountr/refs/heads/main/dropcountr.groovy). Save the driver.
 2. Create a new virtual device and assign the "Dropcountr Water Monitor" driver to it.
 3. Open the device, go into Preferences and enter your Dropcountr app username/password. You can also set the poll interval.
 4. Click the "Initialize" button on the device page.
